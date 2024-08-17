@@ -1,0 +1,53 @@
+2. User Interface Components with Swing
+Layouts
+- Write a program to demonstrate No Layout ( Absolute Positioning)
+- Write a program to demonstrate FlowLayout.
+- Write a program to demonstrate BorderLayout.
+- Write a program to demonstrate GridLayout.
+- Write a program to demonstrate GridBagLayout.
+- Write a program to demonstrate GroupLayout.
+Controls
+- Demonstrate the use of JTextField, JPasswordField and JTextArea.
+- Write a program to demonstrate the use of JScrollPane. 
+- Demonstrate how you use JLabels in a Java program.
+- Write a program to demonstrate the use of CheckBoxes and RadioButtons in Swing.
+- Write a program that demonstrate JMenuBar, JMenu and JMenuItems.
+- Write a program to demonstrate the use of JDialog.
+
+3. Event Handling
+- Write a program to demonstrate the implementation of ActionListener.
+- Write a program to demonstrate the use of Adapter Classes.
+- Write a program to demonstrate implementation of KeyListener.
+- Write a program to demonstrate the control of Mouse events.
+- Write a program to demonstrate the control of Window events.
+- Write a program to demonstrate the control of Item events.
+
+4.Database Connectivity
+- Demonstrate how you connect your Java program with MySQL.
+- Demonstrate use of Statement and ResultSet objects in Java.
+- How do you handle SQL exceptions, deomonstrate.
+- Demonstrate the use of RowSet and CachedRowSet.
+
+5.Network Programming
+- Write a program to demostrate commonly used methods of Java URL class.
+- Write a program to demostrate URLConnection class.
+- Write Server.java and Client.java that uses Socket class.
+- Write a java program to illustrate Client side implementation of DatagramSocket.
+
+6. GUI with JavaFX
+- Write a program to demonstrate FlowPane.
+- Write a program to demonstrate BorderPane.
+- Write a program to demonstrate HBox.
+- Write a program to demonstrate VBox.
+- Write a program to demonstrate GridPane.
+- Write a program to demonstrate use of Label and TextField classes of JavaFX.
+- Write a program to demonstrate use of Button, RadioButton and CheckBox classes of JavaFX.
+- Write a program to demonstarte the implementation of JavaFX menu.
+
+7. Servlets and Java Server pages
+- Demonstrate example of Servlet Interface.
+- Handle Get / Post Requests.
+- Create a Java Servlet program with JDBC Connection
+- Using Cookie class.
+- Post using JSP forms.
+- Simple CRUD app using JSP database access.
