@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JButton;
 
-public class GroupExample {
+public class GroupTest {
     public static void main(String[] args) {
         JFrame frame = new JFrame("GroupLayoutExample");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
