@@ -14,7 +14,6 @@ public class DialogTest {
         });
 
         frame.getContentPane().add(button);
-        frame.pack();
         frame.setVisible(true);
     }
 }
