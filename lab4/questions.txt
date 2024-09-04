@@ -1,0 +1,5 @@
+4.Database Connectivity
+- Demonstrate how you connect your Java program with MySQL.
+- Demonstrate use of Statement and ResultSet objects in Java.
+- How do you handle SQL exceptions, demonstrate.
+- Demonstrate the use of RowSet and CachedRowSet.
