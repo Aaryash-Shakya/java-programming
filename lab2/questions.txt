@@ -14,12 +14,6 @@ Controls
 - Write a program that demonstrate JMenuBar, JMenu and JMenuItems.
 - Write a program to demonstrate the use of JDialog.
 
-4.Database Connectivity
-- Demonstrate how you connect your Java program with MySQL.
-- Demonstrate use of Statement and ResultSet objects in Java.
-- How do you handle SQL exceptions, demonstrate.
-- Demonstrate the use of RowSet and CachedRowSet.
-
 5.Network Programming
 - Write a program to demostrate commonly used methods of Java URL class.
 - Write a program to demostrate URLConnection class.

@@ -24,6 +24,10 @@ public class WindowEvents extends JFrame {
             public void windowDeactivated(WindowEvent e) {
                 label.setText("Window Deactivated!");
             }
+            public void windowIconified(WindowEvent e){
+                label.setText("Window Iconified");
+                System.out.println("Iconified");
+            }
         });
 
         // Basic window settings
@@ -32,6 +36,7 @@ public class WindowEvents extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
     }
+
     public static void main(String[] args) {
         new WindowEvents();
     }
