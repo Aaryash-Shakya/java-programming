@@ -14,12 +14,6 @@ Controls
 - Write a program that demonstrate JMenuBar, JMenu and JMenuItems.
 - Write a program to demonstrate the use of JDialog.
 
-5.Network Programming
-- Write a program to demostrate commonly used methods of Java URL class.
-- Write a program to demostrate URLConnection class.
-- Write Server.java and Client.java that uses Socket class.
-- Write a java program to illustrate Client side implementation of DatagramSocket.
-
 6. GUI with JavaFX
 - Write a program to demonstrate FlowPane.
 - Write a program to demonstrate BorderPane.

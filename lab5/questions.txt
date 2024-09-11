@@ -1,0 +1,5 @@
+5.Network Programming
+- Write a program to demonstrate commonly used methods of Java URL class.
+- Write a program to demonstrate URLConnection class.
+- Write Server.java and Client.java that uses Socket class.
+- Write a java program to illustrate Client side implementation of DatagramSocket.
