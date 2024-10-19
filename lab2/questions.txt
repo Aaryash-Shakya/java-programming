@@ -14,16 +14,6 @@ Controls
 - Write a program that demonstrate JMenuBar, JMenu and JMenuItems.
 - Write a program to demonstrate the use of JDialog.
 
-6. GUI with JavaFX
-- Write a program to demonstrate FlowPane.
-- Write a program to demonstrate BorderPane.
-- Write a program to demonstrate HBox.
-- Write a program to demonstrate VBox.
-- Write a program to demonstrate GridPane.
-- Write a program to demonstrate use of Label and TextField classes of JavaFX.
-- Write a program to demonstrate use of Button, RadioButton and CheckBox classes of JavaFX.
-- Write a program to demonstarte the implementation of JavaFX menu.
-
 7. Servlets and Java Server pages
 - Demonstrate example of Servlet Interface.
 - Handle Get / Post Requests.
