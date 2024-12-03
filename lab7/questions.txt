@@ -1,0 +1,7 @@
+7. Servlets and Java Server pages
+- Demonstrate example of Servlet Interface.
+- Handle Get / Post Requests.
+- Create a Java Servlet program with JDBC Connection
+- Using Cookie class.
+- Post using JSP forms.
+- Simple CRUD app using JSP database access.
